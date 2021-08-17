@@ -2,6 +2,4 @@
 
 This is a really awesome website.
 
-njow editing on update-readme branch
-
-updated locally
+Updates made on master on GitHub before rebase
